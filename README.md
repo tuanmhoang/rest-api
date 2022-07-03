@@ -35,6 +35,7 @@ Request:
 ### 2. Related technical stuff
 
 Work with h2: 
+
 - https://www.baeldung.com/spring-boot-h2-database
 
 ---
@@ -75,3 +76,4 @@ Setup open api:
 
 - https://springdoc.org
 - https://www.baeldung.com/spring-rest-openapi-documentation
+
